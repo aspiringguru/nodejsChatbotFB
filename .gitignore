@@ -1,2 +1,3 @@
 node_modules/
 server.js
+exclude_from_git_notes.txt
