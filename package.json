@@ -1,0 +1,29 @@
+{
+  "name": "demos",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aspiringguru/nodejschatbotsimple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aspiringguru/nodejschatbotsimple/issues"
+  },
+  "homepage": "https://github.com/aspiringguru/nodejschatbotsimple#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "google-auth-library": "^2.0.0",
+    "googleapis": "^34.0.0",
+    "request": "^2.88.0",
+    "sqlite3": "^4.0.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
