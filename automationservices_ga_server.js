@@ -21,11 +21,11 @@ app.use(bodyParser.json())
 // ROUTES
 
 app.get('/', function(req, res) {
-	res.send("Hi I am a chatbot running on automationservices.ga")
+	res.send("Hi I am a chatbot running on facebook.automationservices.host")
 })
 
 app.get('/blah', function(req, res) {
-	res.send("This is blah. running on automationservices.ga")
+	res.send("This is blah. running on facebook.automationservices.host")
 })
 
 let token = ""
